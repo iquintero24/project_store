@@ -1,61 +1,45 @@
-# 🛍️ Heart Store – RIWI Test Project
+# 🛍️ Project Store - HTML & CSS Basic Test
 
-Welcome to **Heart Store**, a fictional online store created as part of a basic HTML & CSS test for RIWI.  
-This responsive web project showcases a simple yet stylish layout, simulating an e-commerce site inspired by **Comme des Garçons**.
+This is a basic web project created as part of a **RIWI** test to practice and demonstrate HTML and CSS skills.  
+The site is responsive and visually styled to reflect a modern, elegant store layout.
 
----
-
-## 🌐 Project Overview
-
-This project demonstrates fundamental **HTML5** and **CSS3** skills through a fully structured static webpage.  
-It features sections like:
-
-- 🖼️ Hero section
-- 🧍 About Us
-- 🛒 Products Grid
-- 📬 Contact Form
-- 🔗 Footer with navigation
+🌐 **Live Preview**:  
+[https://6847a9db00c71e02c7c9a94d--heartstore.netlify.app/](https://6847a9db00c71e02c7c9a94d--heartstore.netlify.app/)
 
 ---
 
-## 🛠️ Technologies Used
+## 📁 Project Structure
 
-- HTML5
-- CSS3
-- Responsive design principles
-
----
-
-## 👨‍💻 Coder Information
-
-- **Name:** Isaac David Quintero Lobo  
-- **ID Number:** 1043126197  
-- **Clan:** Ciénaga  
-- **Email:** isaacquintero4k@gmail.com  
-
-Feel free to reach out for feedback or collaboration!
+- `index.html` – main HTML page with structured semantic elements  
+- `style.css` – CSS file that defines the overall styles  
+- `img/` – folder for images used in the project  
+- `font/` – folder for custom fonts if applicable  
 
 ---
 
-## 📸 Screenshots (optional)
+## 👤 Coder Info
 
-_Add here some screenshots of your site for a visual preview._  
-Example:
-
-![screenshot](./img/corazones.webp)
-
----
-
-## 🚀 How to Run
-
-Simply open the `index.html` file in your browser.  
-Make sure all image and CSS files are in the correct relative paths as provided in the project structure.
+- **Name**: Isaac David Quintero Lobo  
+- **ID**: 1043126197  
+- **Clan**: Ciénaga  
+- **Email**: [isaacquintero4k@gmail.com](mailto:isaacquintero4k@gmail.com)
 
 ---
 
-## 📄 License
+## 🚀 Technologies Used
 
-This project was created for educational purposes under RIWI guidelines.  
-All assets belong to their respective authors.
+- HTML5  
+- CSS3  
+- Visual Studio Code  
+- Git & GitHub  
+- Netlify (for deployment)
 
 ---
+
+## 📌 Notes
+
+This project was created purely with HTML and CSS, without the use of JavaScript or frameworks. It's intended for academic or practice purposes.
+
+---
+
+✨ Thanks for checking it out!
