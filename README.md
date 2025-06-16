@@ -19,10 +19,7 @@ The site is responsive and visually styled to reflect a modern, elegant store la
 
 ## 👤 Coder Info
 
-- **Name**: Isaac David Quintero Lobo  
-- **ID**: 1043126197  
-- **Clan**: Ciénaga  
-- **Email**: [isaacquintero4k@gmail.com](mailto:isaacquintero4k@gmail.com)
+
 
 ---
 
